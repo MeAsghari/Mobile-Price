@@ -5,7 +5,7 @@ This dataset contain information about many mobiles anda variables about it
 
 In this Project,On the basis of the mobile Specification like Battery power, 3G enabled , wifi ,Bluetooth, Ram etc we are predicting Price range of the mobile
 
-In this data:
+*In this data:
 id:ID
 battery_power:Total energy a battery can store in one time measured in mAh
 blue:Has bluetooth or not
