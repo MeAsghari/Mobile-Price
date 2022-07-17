@@ -5,7 +5,7 @@ This dataset contain information about many mobiles anda variables about it
 
 In this Project,On the basis of the mobile Specification like Battery power, 3G enabled , wifi ,Bluetooth, Ram etc we are predicting Price range of the mobile
 
-In this data:
+# In this data:
 
 id:ID
 
@@ -49,11 +49,11 @@ touch_screen:Has touch screen or not
 
 wifi:Has wifi or not
 
-USE:
+# USE:
 This kind of prediction will help companies estimate price of mobiles to give tough competion to other mobile manufacturer
 Also it will be usefull for Consumers to verify that they are paying best price for a mobile.
 
-Applied Models:
+# Applied Models:
 
 SVM
 
